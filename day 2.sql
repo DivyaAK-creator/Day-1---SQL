@@ -18,8 +18,6 @@ values
 ('Rohith','HR',80000),
 ('Meena','Finance',48000);
 select * from employees;
-show databases;
-use company_db;
 select name , department from employees;
 
 
