@@ -8,7 +8,8 @@ emp_name varchar(50),
 salary decimal(10,2)
 );
 -- describ the structure of table
-desc employees;
+desc drop database company_db
+employees;
 
 -- challenge 2
 alter table employees 
@@ -23,4 +24,5 @@ drop department;
 alter table employees 
 add experience smallint;
 desc employees;
+
 
