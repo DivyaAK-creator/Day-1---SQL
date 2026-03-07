@@ -16,4 +16,5 @@ Day 3 : SELECT * FROM table ,
 Day 4 : DISTINCT for unique records,
         UPDATE....SET...WHERE for modify existing data,
         DELETE FROM...WHERE to delete rows.
-   
+Day 5 : Main aggregate functions ,
+        COUNT(),SUM(),AVG(),MIN(),MAX().
