@@ -33,3 +33,21 @@ Day 8 : String Functions(for string manupulation),
         Other Useful Functions.
 
 Day 9 : Practicing Mini tasks on Functions.
+
+Day 10: Learned GROUP BY
+        Understood how to group rows based on column values
+        Practiced aggregate functions like SUM(), COUNT(), and AVG() with GROUP BY
+
+Day 11: Learned JOIN
+        Understood how tables are connected using JOIN
+        Practiced:
+        JOIN
+        ON
+        ORDER BY
+        LEFT JOIN
+        
+Day 12: Practiced GROUP BY queries
+        Learned HAVING clause
+        Understood the difference between:
+        WHERE (filters rows)
+        HAVING (filters grouped results)
