@@ -51,3 +51,5 @@ Day 12: Practiced GROUP BY queries
         Understood the difference between:
         WHERE (filters rows)
         HAVING (filters grouped results)
+        
+Day 13: Mini Project Task
